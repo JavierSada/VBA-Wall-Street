@@ -14,6 +14,7 @@ Abstract:
 
 ## Instructions
 
+<p align="justify"> 
 Create a script that will loop through all the stocks for one year and output the following information:
 
   * The ticker symbol.
@@ -29,5 +30,19 @@ Create a script that will loop through all the stocks for one year and output th
   * Show the result.
 
   * Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+
+</p>
   
 ## Results (Images)
+
+#### Stocks 2014
+
+  ![G1](https://github.com/JavierSada/VBA-Wall-Street/blob/main/Docs/ST_2014.PNG)
+ 
+ #### Stocks 2015
+ 
+  ![G2](https://github.com/JavierSada/VBA-Wall-Street/blob/main/Docs/ST_2015.PNG)
+  
+  #### Stocks 2016
+  
+  ![G3](https://github.com/JavierSada/VBA-Wall-Street/blob/main/Docs/ST_2016.PNG)
